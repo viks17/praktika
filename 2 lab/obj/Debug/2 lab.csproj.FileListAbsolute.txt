@@ -1,0 +1,21 @@
+C:\Users\DNS\source\repos\2 lab\obj\Debug\2 lab.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+C:\Users\DNS\source\repos\2 lab\bin\Debug\2 lab.exe.config
+C:\Users\DNS\source\repos\2 lab\bin\Debug\2 lab.exe
+C:\Users\DNS\source\repos\2 lab\bin\Debug\2 lab.pdb
+C:\Users\DNS\source\repos\2 lab\obj\Debug\2 lab.exe
+C:\Users\DNS\source\repos\2 lab\obj\Debug\2 lab.pdb
+C:\Users\DNS\Desktop\lab\2 lab\bin\Debug\2 lab.exe.config
+C:\Users\DNS\Desktop\lab\2 lab\bin\Debug\2 lab.exe
+C:\Users\DNS\Desktop\lab\2 lab\bin\Debug\2 lab.pdb
+C:\Users\DNS\Desktop\lab\2 lab\obj\Debug\2 lab.csprojAssemblyReference.cache
+C:\Users\DNS\Desktop\lab\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\lab\2 lab\obj\Debug\2 lab.exe
+C:\Users\DNS\Desktop\lab\2 lab\obj\Debug\2 lab.pdb
+E:\3 курс\2 lab\bin\Debug\2 lab.exe.config
+E:\3 курс\2 lab\bin\Debug\2 lab.exe
+E:\3 курс\2 lab\bin\Debug\2 lab.pdb
+E:\3 курс\2 lab\obj\Debug\2 lab.csprojAssemblyReference.cache
+E:\3 курс\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+E:\3 курс\2 lab\obj\Debug\2 lab.exe
+E:\3 курс\2 lab\obj\Debug\2 lab.pdb
